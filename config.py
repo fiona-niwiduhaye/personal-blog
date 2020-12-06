@@ -8,6 +8,7 @@ class Config:
     UPLOADED_PHOTOS_DEST ='app/static/photos'
     QUOTE_URL = 'http://quotes.stormconsultancy.co.uk/random.json'
 
+
     # email configurations
     MAIL_SERVER = 'smtp.googlemail.com'
     MAIL_PORT = 587
