@@ -19,7 +19,7 @@ Bootstrap
 
 ### Live link
 
-You can view the project through this link :
+You can view the project through this link :https://fioblog.herokuapp.com/
 
 ### Contact Information
 
