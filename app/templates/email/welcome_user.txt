@@ -1,0 +1,4 @@
+Hello {{user.username}}
+Welcome to Gazette Blog
+You have now signed up for the application and can now start enjoy random quotes and read  articles and leave a comment.
+Enjoy.Have Nice Day !!!!
